@@ -35,6 +35,7 @@ const SearchBar = ({ setMovies }) => {
             // Aggiorno lo stato con la lista di film trovati
             setMovies(moviesData);
         });
+
     };
 
     return (
