@@ -1,15 +1,11 @@
-import { useState } from 'react'
+
 
 import './App.css'
 
+import DefaultLayout from "./layouts/DefaultLayout";
+
 function App() {
-
-
-  return (
-    <>
-
-    </>
-  )
+  return <DefaultLayout />;
 }
 
-export default App
+export default App;

@@ -1,8 +1,8 @@
 //importo Usestate e Usecontext
 import { useState, useContext } from "react";
 
-//importo il componente globale e axios
-import GlobalContext from "../contexts/GlobalContext";
+//importo  axios
+
 import axios from "axios";
 
 //salvo la mia api key in una costante
