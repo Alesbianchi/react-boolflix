@@ -70,7 +70,12 @@ header {
   font-size: 24px;
 }
 
-
+/* Stile per le bandiere */
+.flag-icon {
+  width: 20px;
+  height: 15px;
+  object-fit: cover;
+}
 
 @media (prefers-color-scheme: light) {
   :root {
